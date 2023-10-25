@@ -1,5 +1,5 @@
 /*
  * Author:
- * Date:
- * Name:
+ * Date:25.10.2023
+ * Name:Farxod Qarshiyev
  */
